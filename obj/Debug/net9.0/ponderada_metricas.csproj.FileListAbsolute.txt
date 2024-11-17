@@ -1,0 +1,15 @@
+/Users/brunoleao/Documents/GitHub/ponderada_metricas/bin/Debug/net9.0/ponderada_metricas
+/Users/brunoleao/Documents/GitHub/ponderada_metricas/bin/Debug/net9.0/ponderada_metricas.deps.json
+/Users/brunoleao/Documents/GitHub/ponderada_metricas/bin/Debug/net9.0/ponderada_metricas.runtimeconfig.json
+/Users/brunoleao/Documents/GitHub/ponderada_metricas/bin/Debug/net9.0/ponderada_metricas.dll
+/Users/brunoleao/Documents/GitHub/ponderada_metricas/bin/Debug/net9.0/ponderada_metricas.pdb
+/Users/brunoleao/Documents/GitHub/ponderada_metricas/obj/Debug/net9.0/ponderada_metricas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brunoleao/Documents/GitHub/ponderada_metricas/obj/Debug/net9.0/ponderada_metricas.AssemblyInfoInputs.cache
+/Users/brunoleao/Documents/GitHub/ponderada_metricas/obj/Debug/net9.0/ponderada_metricas.AssemblyInfo.cs
+/Users/brunoleao/Documents/GitHub/ponderada_metricas/obj/Debug/net9.0/ponderada_metricas.csproj.CoreCompileInputs.cache
+/Users/brunoleao/Documents/GitHub/ponderada_metricas/obj/Debug/net9.0/ponderada_metricas.sourcelink.json
+/Users/brunoleao/Documents/GitHub/ponderada_metricas/obj/Debug/net9.0/ponderada_metricas.dll
+/Users/brunoleao/Documents/GitHub/ponderada_metricas/obj/Debug/net9.0/refint/ponderada_metricas.dll
+/Users/brunoleao/Documents/GitHub/ponderada_metricas/obj/Debug/net9.0/ponderada_metricas.pdb
+/Users/brunoleao/Documents/GitHub/ponderada_metricas/obj/Debug/net9.0/ponderada_metricas.genruntimeconfig.cache
+/Users/brunoleao/Documents/GitHub/ponderada_metricas/obj/Debug/net9.0/ref/ponderada_metricas.dll
